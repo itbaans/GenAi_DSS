@@ -21,6 +21,3 @@ class StoryConfig:
     num_characters: int = 4
     max_dialogue_length: int = 200
     
-    # Story settings
-    allow_actions: bool = False
-    enable_random_events: bool = False
